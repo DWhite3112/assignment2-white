@@ -9,4 +9,19 @@ repo for assignment 2
 My favorite piece in this collection being the <b>Striding Lion: Mount for the Buddhist Deity Monju, Mid-13th century. Japanese.</b>
 The design of the lion has a strong and intimidating aura to it, that's what I think makes it a great piece. 
 	</p>
+
+<hr>
+
+<h3>Directions from MCI to Nelson Atkins</h3>
+<p> The closest airport to Nelson Atkins would be the Kansas City 
+International airport. To get from the airport you will need to: 
+
+<ol>
+<li>Take I-29 S/US-71 S in May Township from NW 120th St</li>
+<li>Continue on US-71 to Kaw Township. Take the exit toward Emanuel Cleaver II Blvd/Swope Pkwy from US-71 S</li>
+<li>Take Emanuel Cleaver II Blvd. to Oak St</li>
+<li>The museum will be at 4525 Oak St, Kansas City, MO 64111</li>
+</ol>
+</p>
+
 </html>
