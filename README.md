@@ -35,3 +35,6 @@ There are plenty of other good places to visit around the museum such as:
 </p>
 
 </html>
+
+[Learn more about me ](AboutMe.md)
+
