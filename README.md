@@ -34,6 +34,41 @@ There are plenty of other good places to visit around the museum such as:
 </ul>
 </p>
 
+<hr>
+
+<h4>More Cities and Attractions</h4>
+<p>
+The US is filled with amazing attractions the table below shows a few of them, the city they're in, and an estimate of the you should spend there.
+</p>
+<table>
+ 
+<tr>
+	<th>City</th>
+	<th>Attraction</th>
+	<th>Avg time at attractions</th>
+</tr>
+<tr>
+	<td>Las Vegas</td>
+	<td>The Strip</td>
+	<td>3 hours</td>
+</tr>
+<tr>
+	<td>Chicago</td>
+	<td>Navy Pier</td>
+	<td>1-2 hours</td>
+</tr>
+<tr>
+	<td>San Diego</td>
+	<td>Balboa Park</td>
+	<td>2-4 hours</td>
+</tr>
+<tr>
+	<td>Orlando</td>
+	<td>Walt Disney World Resort</td>
+	<td>1-4 days</td>
+</tr>
+</table>
+
 </html>
 
 [Learn more about me ](AboutMe.md)
