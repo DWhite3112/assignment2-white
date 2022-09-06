@@ -69,6 +69,14 @@ The US is filled with amazing attractions the table below shows a few of them, t
 </tr>
 </table>
 
+<hr>
+
+<h4>A couple of my favorite quotes</h4>
+<blockquote cite="https://www.goodreads.com/author/quotes/3213618.Diogenes_of_Sinope#:~:text=%E2%80%9CIt%20is%20the%20privilege%20of,godlike%20men%20to%20want%20little.%E2%80%9D&text=%E2%80%9CIn%20a%20rich%20man's%20house,to%20spit%20but%20his%20face.%E2%80%9D&text=%E2%80%9CI%20am%20a%20citizen%20of%20the%20world.%E2%80%9D&text=%E2%80%9CThe%20foundation%20of%20every%20state,the%20education%20of%20its%20youth.%E2%80%9D">
+“It is the privilege of the gods to want nothing, and of godlike men to want little.” <br><i>Diogenes of Sinope</i></blockquote>
+<blockquote cite="https://www.worldhistory.org/Diogenes_of_Sinope/"> 
+"If I were not Diogenes, I would also wish to be Diogenes." <br><i>Diogenes of Sinope</i></blockquote>
+
 </html>
 
 [Learn more about me ](AboutMe.md)
