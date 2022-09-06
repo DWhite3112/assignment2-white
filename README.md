@@ -85,5 +85,19 @@ Is there CSS I can use to do this?"</blockquote>
 
 </html>
 
+[Link to Stack overflow question](https://stackoverflow.com/questions/12351191/centering-entire-page)
+```
+<body>
+  <div id="page-wrap">
+    <!-- all websites HTML here -->
+  </div>
+</body>
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+```
+[CSS tricks solution](https://css-tricks.com/snippets/css/centering-a-website/)
+
 [Learn more about me ](AboutMe.md)
 
