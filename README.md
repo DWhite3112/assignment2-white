@@ -22,6 +22,16 @@ International airport. To get from the airport you will need to:
 <li>Take Emanuel Cleaver II Blvd. to Oak St</li>
 <li>The museum will be at 4525 Oak St, Kansas City, MO 64111</li>
 </ol>
+
+<br>
+There are plenty of other good places to visit around the museum such as:
+
+<ul>
+<li>The Ewing and Muriel Kauffman Memorial Garden</li>
+<li>Manheim Park + Garden</li>
+<li>The National Museum of Toys and Miniatures</li>
+<li>Loose Park Garden Center</li>
+</ul>
 </p>
 
 </html>
