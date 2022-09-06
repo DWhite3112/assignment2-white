@@ -77,6 +77,12 @@ The US is filled with amazing attractions the table below shows a few of them, t
 <blockquote cite="https://www.worldhistory.org/Diogenes_of_Sinope/"> 
 "If I were not Diogenes, I would also wish to be Diogenes." <br><i>Diogenes of Sinope</i></blockquote>
 
+<hr>
+
+<h4>Code fencing</h4>
+<blockquote cite="https://stackoverflow.com/questions/12351191/centering-entire-page">"My website is left-justified with a lot of absolute positioning: I'd like to center it, like NYtimes.com does.
+Is there CSS I can use to do this?"</blockquote>
+
 </html>
 
 [Learn more about me ](AboutMe.md)
